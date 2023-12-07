@@ -8,4 +8,5 @@ The models are trained on the [data-sceince-bowl-2018](https://www.kaggle.com/co
 # Models:
 The models are taken from the [monai](https://docs.monai.io/en/stable/networks.html) package and preprocessing an training method taken from this [repository](https://github.com/4uiiurz1/pytorch-nested-unet)
 - [UNet](https://docs.monai.io/en/stable/networks.html#unet) from monai. Paper: https://link.springer.com/chapter/10.1007/978-3-030-12029-0_40.
+- [NestedUNet(UNet++)](https://github.com/4uiiurz1/pytorch-nested-unet) from this repo code. Paper: https://arxiv.org/abs/1807.10165
 - [SWinUNETR](https://docs.monai.io/en/stable/networks.html#swinunetr) from monai. Paper : https://arxiv.org/abs/2201.01266
